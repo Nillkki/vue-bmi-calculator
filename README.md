@@ -1,5 +1,7 @@
 # vue-bmi-calculator
 
+> This is a practice project and atleast for now should not be used as an example of idiomatic Vue.js
+
 ## Project setup
 ```
 yarn install
